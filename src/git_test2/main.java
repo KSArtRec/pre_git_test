@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		hello hello=new hello();
-		hello.say();
+		System.out.println(hello.say());
 	}
 
 }
